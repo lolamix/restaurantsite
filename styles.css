@@ -1,0 +1,47 @@
+
+
+    nav{
+        padding: 20px;
+       background-color: #8a194b;
+        width: 100%;
+
+    }
+    nav ul li{
+        display: inline-block;
+        width: 24.5%;
+        text-align: center;
+        
+    }
+    
+    
+    nav ul li a {
+        display: block;
+        color: #ffffff;
+        font-family: "Sorts Mill Goudy", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 28px;
+        text-decoration: none;
+        padding: 0px 124px;
+    }
+    
+    #logo{
+        padding: 60px;
+        display: block;
+  margin-left: 20px;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+    }
+
+    #info {
+        background-color: #2e0718;
+        padding-right: 50%;
+    }
+
+   .fli { width: 100%; 
+          padding: 0%;}
+
+          h1 {text-align: center;}
+
+   
